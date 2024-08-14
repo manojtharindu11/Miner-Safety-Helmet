@@ -34,7 +34,5 @@ We are excited to unveil our remarkable first-year microcontroller-based hardwar
 This achievement is a testament to the relentless dedication of our exceptional team. We extend our gratitude to everyone who has contributed to this project, from the initial concept to its implementation.
 
 ## Social Media
-Follow our journey on social media:
-- LinkedIn: https://www.linkedin.com/in/tharindu-manoj-thilakarathna-1917601a7/
-
-Let's continue to make strides in shaping a safer and more efficient mining industry.
+Follow on social media:
+- LinkedIn: [https://www.linkedln.com/in/manojtharindu11](https://www.linkedin.com/in/manojtharindu11/)
