@@ -32,7 +32,3 @@ We are excited to unveil our remarkable first-year microcontroller-based hardwar
 
 ## Team and Acknowledgments
 This achievement is a testament to the relentless dedication of our exceptional team. We extend our gratitude to everyone who has contributed to this project, from the initial concept to its implementation.
-
-## Social Media
-Follow on social media:
-- LinkedIn: [https://www.linkedln.com/in/manojtharindu11](https://www.linkedin.com/in/manojtharindu11/)
