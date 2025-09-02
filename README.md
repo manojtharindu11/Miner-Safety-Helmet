@@ -32,3 +32,7 @@ We are excited to unveil our remarkable first-year microcontroller-based hardwar
 
 ## Team and Acknowledgments
 This achievement is a testament to the relentless dedication of our exceptional team. We extend our gratitude to everyone who has contributed to this project, from the initial concept to its implementation.
+
+## Documentation Links
+- **Final Report:** [Hardware Project Final Report - Group 28.pdf](Docs/Hardware%20Project%20Final%20Report%20-%20Group%2028.pdf)
+- **Final Presentation:** [Google Slides](https://docs.google.com/presentation/d/1CPPkHnMzfAydRKjZW_XPN3g_7zKz9mP_/edit?usp=sharing&ouid=100717740034882554144&rtpof=true&sd=true&usp=embed_facebook)
